@@ -27,3 +27,9 @@ Each directory represents a task the source code of each task in the "src" direc
 
 ## removeCommas
 * In this program we get a string from the user, then we print on the screen the same string after removing all commas
+
+## circleCylinderSheet6Q2
+* In this program we have class Circle with attributes color and radius.
+* we also have Cylinder with attribute height and Cylinder extends cirle so inherting color and radius
+* Circle contains setters, getters , getArea and toString methods
+* Cylinder inherites all of these and have also getVolume method
